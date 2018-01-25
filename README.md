@@ -1,1 +1,0 @@
-# RTAI_exercise
